@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>LISTS</title>
+</head>
+<body>
+    <h1>💻MY SKILLS & PORTFOLIO</h1>
+    <h2>📍MAJOR LIFE EVENTS</h2>
+    <ol>
+        <li>Born in 2004</li>
+        <li>Graduate in 2026</li>
+        <li>Join the Job in 2026</li>
+    </ol>
+    <h2>📈ACHIEVEMENS</h2>
+    <ol type="A">
+        <li>Oracle Professional Certificate</li>
+        <li>Student of the Year</li>
+        <li>Internship Certificate from TAP Academy</li>
+    </ol>
+    <h2>📊RESEARCH PROJECTS</h2>
+    <ol type="I">
+        <li>AI in Robotis</li>
+        <li>ML in System Designs</li>
+    </ol>
+    <h2>💼TECHNICAL SKILLS</h2>
+    <ul>
+        <li>HTML</li>
+        <li>CSS</li>
+        <li>JAVASCRIPT</li>
+        <li>REACT JS</li>
+    </ul>
+    <h2>📌TOOLS USED</h2>
+    <ul type="square">
+        <li>VS code</li>
+        <li>Eclipse</li>
+        <li>Github</li>
+    </ul>
+    <h2>📙HOBBIES</h2>
+    <ul type="circle">
+        <li>Coding</li>
+        <li>Photography</li>
+        <li>Book Reading</li>
+    </ul>
+    <h2>📋TECH GLOSSARY</h2>
+    <dl>
+        <dt>HTML</dt>
+        <dd>Hypertext Markup Language is the standard markup language for documents designed to be displayed in a web browser. It defines the content and structure of web content. It is often assisted by technologies such as Cascading Style Sheets and scripting languages such as JavaScript.</dd>
+        <dt>CSS</dt>
+        <dd>CSS, or Cascading Style Sheets, is a stylesheet language used to describe the presentation, styling, and layout of a document written in a markup language like HTML. It is a cornerstone technology of the World Wide Web, alongside HTML and JavaScript. </dd>
+        <dt>JAVASCRIPT</dt>
+        <dd>JavaScript is a programming language and core technology of the Web, alongside HTML and CSS. It was created by Brendan Eich in 1995. As of 2025, the overwhelming majority of websites uses JavaScript for client side webpage behavior. Web browsers have a dedicated JavaScript engine that executes the client code</dd>
+    </dl>
+    <h2>📒PERSONAL DEVELOPMENT PLAN</h2>
+    <ol>
+        <li>Short Term Goals
+            <ul>
+                <li>Master the JAVASCRIPT</li>
+                <li>Get Intership Certificate</li>
+            </ul>
+        </li>
+        <li>Long Term Goals
+            <ul>
+                <li>Get a Full Stack Developer Job</li>
+                <li>Start a Tech Youtube Channel</li>
+            </ul>
+        </li>
+    </ol>
+</body>
+</html>
